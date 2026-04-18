@@ -1,4 +1,4 @@
-# Snap-View
+# Snap-View v.1.2
 Snap View is a lightweight program that allows you to view the contents of various types of ASCII files
 
 # Main features
