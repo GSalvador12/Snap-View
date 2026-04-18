@@ -17,3 +17,5 @@ Snap View is a lightweight program that allows you to view the contents of vario
 <img width="1366" height="768" alt="snap-view-sc-4-1366x768" src="https://github.com/user-attachments/assets/3f4758d0-f954-4fbd-946f-b3ca5f697e05" />
 
 * Parts of application use SynEdit library.
+
+Watch in youtube: https://www.youtube.com/watch?v=-TWgcEGvZvU
